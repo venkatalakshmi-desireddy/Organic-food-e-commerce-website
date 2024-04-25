@@ -1,0 +1,146 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2em;
+    color: black;
+}
+.navbar-brand:hover{
+    color: black;
+   
+}
+.nav-link{
+    margin-right: 10px;
+    color: black;
+margin-left: 10px;
+text-transform: uppercase;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.nav-link:hover{
+    color:black;
+}
+.search{
+    height:40px;
+    width:80%;
+    border-radius: 60px;
+    outline:none;
+    border:2px solid blue;
+    margin-right: -35px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn1{
+    height: 40px;
+    width:40%;
+    outline:none;
+    border:none;
+    background-color:blue;
+    color:white;
+    font-weight: 700;
+    border-radius: 60px;
+
+}
+
+.main{
+    background-image: url("https://media.istockphoto.com/id/1448720788/photo/food-banner-background-with-vegan-products-vegan-food-on-table-top-view-veganuary-concept.jpg?s=612x612&w=0&k=20&c=FDL6u4mIyzAH2o-6onJW14fJX01CBGToiHOf7rKw-xk=");
+    background-size: cover;
+    height:100vh;
+    width:100%;
+    background-position: 50% 50%;
+    float:right;
+}
+.main h1{
+    font-weight: 500;
+font-size: 3rem;
+text-transform: capitalize;
+}
+.btn0{
+    text-transform: capitalize;
+    height:45px;
+    width:35%;
+    border:none;
+    outline:none;
+   background-color:green; 
+   color:white;
+   font-weight: 700;
+   border-radius:60px;
+
+}
+.btn0:hover{
+    background-color:rgb(194, 26, 113);
+}
+.new1{
+    float: inline-start;
+    padding:50px 20px 20px 50px;
+
+}
+.new2{
+    float: inline-start;
+    padding:50px 20px 20px 20px;
+
+
+}
+.new3{
+    float: inline-start;
+    padding:50px 60px 20px 20px;
+    
+
+}
+h6,p{
+    text-align: center;
+
+}
+h2{
+    font-weight: 600;
+}
+.card:hover{
+    -webkit-box-shadow: 10px 10px 100px 18px rgba(189,34,189,0.78);
+    -moz-box-shadow: 10px 10px 100px 18px rgba(189,34,189,0.78);
+    box-shadow: 10px 10px 100px 18px rgba(189,34,189,0.78);
+    border-radius: 32px 32px 32px 32px;
+-moz-border-radius: 32px 32px 32px 32px;
+-webkit-border-radius: 32px 32px 32px 32px;
+border: 0px solid #000000;
+
+
+}
+.new11{
+    float: inline-start;
+    padding:40px 20px 10px 30px;
+    height:100px;
+
+}
+.new22{
+    float: inline-start;
+    padding:40px 10px 10px 20px;
+    height:100px;
+
+
+}
+.new33{
+    float: inline-start;
+    padding:40px 20px 10px 20px;
+    height:100px;
+ 
+
+}
+h5{
+    font-weight: 500;
+    text-align: center;
+}
+.apple{
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsp1ZogWcSUdojcoZnDbfjPZYkeJY5aCQX3g&s");
+    background-size: cover;
+    height:100%;
+    width:100%;
+ 
+}
+.food{
+    text-align: left;
+
+}
+.apple h1{
+    font-family: 'Lobster','cursive';
+}
